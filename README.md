@@ -13,3 +13,6 @@ This repo is including the binary which was with default setting. User can try i
 4. The storage will be mounted on the desktop again after copy completed. 
 5. In termial application or Thonny (a simple IDE for Python), connect to the serial port which is used for the FRDM-K64F. 
 6. If using a terminal software, choose baudrate 115200. Key-input of Control-b, will show welcome message and prompt. 
+
+![Terminal screen](https://github.com/teddokano/additional_files/blob/main/MicroPython_v1.19.1_zephyr-frdm_k64f/MicroPython_v1.19.1%20for%20FRDM-K64F_on_CoolTerm.png)  
+_MicroPython prompt on CoolTerm (a terminal application)_
