@@ -1,3 +1,7 @@
+#
+# A sample code to blink on-board RGB LEDs
+#
+
 import time
 from machine import Pin
 

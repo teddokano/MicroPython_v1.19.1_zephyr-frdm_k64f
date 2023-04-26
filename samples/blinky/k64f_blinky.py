@@ -1,3 +1,7 @@
+#
+# A sample code from https://github.com/micropython/micropython/blob/master/ports/zephyr/README.md
+#
+
 import time
 from machine import Pin
 

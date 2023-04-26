@@ -1,3 +1,7 @@
+#
+# A sample code to getting data from on-board accelerometer: FXOS8700
+#
+
 from machine import I2C
 from utime import sleep
 
