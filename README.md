@@ -2,13 +2,21 @@
 This is a firmware to operate MicroPython on FRDM-K64F. 
 
 ## What is this?
-A firmware binary and some sample code for MicroPython_v1.19.1 for FRDM-K64F.  
+A firmware binary and some sample code for MicroPython_v1.19.1 for FRDM-K64F. 
+
+> **note**
+> MicroPython is provided in [the MIT license by dpgeorge](https://github.com/micropython/micropython/blob/master/LICENSE).  
+> The firmware binary should be handled with its license in [micropython repository](https://github.com/micropython/micropython)
+ 
 To use the MicroPython on FRDM-K64F boards, need to build the MicroPython code after installing Zephyr development envirinment.  
 This repo is including the binary which was with default setting. User can try it immediately just after copy the binary by drag-and-drop. 
 
+![FRDM-K64F](https://github.com/teddokano/additional_files/blob/main/MicroPython_v1.19.1_zephyr-frdm_k64f/board.jpg)  
+_FRDM-K64F board, USB cable connected on **J26** connector_
+
 # Getting started
 1. Find a file `firmware/MicroPython_v1.19.1_zephyr-frdm_k64f.bin` and download onto your PC.  
-2. When the FRDM-K64F J26 is connected to PC, a storage icon: **DAPLINK** will appear on your desktop. 
+2. When the FRDM-K64F **J26** is connected to PC, a storage icon: **DAPLINK** will appear on your desktop. 
 3. Just drag the file into DAPLINK storage. 
 4. The storage will be mounted on the desktop again after copy completed. 
 5. In termial application or Thonny (a simple IDE for Python), connect to the serial port which is used for the FRDM-K64F. 
