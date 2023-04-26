@@ -24,3 +24,7 @@ _FRDM-K64F board, USB cable connected on **J26** connector_
 
 ![Terminal screen](https://github.com/teddokano/additional_files/blob/main/MicroPython_v1.19.1_zephyr-frdm_k64f/MicroPython_v1.19.1%20for%20FRDM-K64F_on_CoolTerm.png)  
 _MicroPython prompt on CoolTerm (a terminal application)_
+
+# Reference
+Steps of building MictoPython Zephyr port is [explained here (Japanese version only)](https://qiita.com/teddokano/items/75a508bd32d9784efcce).  
+Follow those steps if you need your own binary with customized configuration. 
