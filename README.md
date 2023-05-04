@@ -16,7 +16,7 @@ _FRDM-K64F board, USB cable connected on **J26** connector_
 
 # Getting started
 
-1. Find a file `firmware/MicroPython_v1.19.1_zephyr-frdm_k64f.bin` and download onto your PC.  
+1. Find a file `firmware/MicroPython_<version_number>_zephyr-frdm_k64f.bin` and download onto your PC.  
 2. When the FRDM-K64F **J26** is connected to PC, a storage icon: **DAPLINK** will appear on your desktop. 
 3. Just drag the file into DAPLINK storage. 
 4. The storage will be mounted on the desktop again after copy completed. 
